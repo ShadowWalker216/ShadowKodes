@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>My Blog</title>
+  </head>
+  
+  <body>
+    <!-- header start -->
+    <div id="header" class="section">
+     <p>Tim Jones</p>
+    </div>
+    <!-- header end -->
+    
+    <-- about me start -->
+    <div class="section">
+      <h1><span>About Me</span></h1>
+        <p>
+          <div class="section"></div>
+          <p>
+            Wuts up everybodydis ya boy <B>Tim</B> A.K.A <Strong>Shadow</strong>.
+            im just now starting to get the hang of it. or so i thought until i started using github, now im just konfused.
+            Speaking of konfused i know your probably wondering wuts with all the K's idk i just adopted it from my peers.
+            anyway like i said im still new so im im really just testing out my skills for now.
+            Until it get the hang of it i'll make sure to keep everyone updated on my progress.</p>
+            <p class="quote"><B>"Stay Ready"</B></p>
+          </div>
+          <!--About /me End -->
+          
+          
